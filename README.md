@@ -30,7 +30,7 @@ Welcome to **Delicious Bites**, a responsive and elegant restaurant website buil
 
 ## 📁 Project Files
 /
-├── reciepe.html
+├── index.html
 ├── receipe.css
 ├── images/
 ├── video/
