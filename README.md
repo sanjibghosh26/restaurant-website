@@ -6,7 +6,7 @@ Welcome to **Delicious Bites**, a responsive and elegant restaurant website buil
 
 ## 🌐 Live Demo
 
-🔗 [View Website](https://sanjibghosh26.github.io/restaurant-website/reciepe.html)
+🔗 [View Website](https://sanjibghosh26.github.io/restaurant-website/index.html)
 
 ---
 
