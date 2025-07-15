@@ -41,7 +41,7 @@ Welcome to **Delicious Bites**, a responsive and elegant restaurant website buil
 ## 🚀 How to Run
 
 1. Clone or download the repo  
-2. Open restaurent.html in your browser
+2. Open index.html in your browser
 
 ---
 
